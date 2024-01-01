@@ -15,7 +15,7 @@ The algorithm used to find the largest square is a variant of dynamic programmin
 The time complexity of the algorithm is O(n), where n is the number of cells in the grid. This is because each cell is visited a constant number of times. The space complexity is also O(n), mainly due to the storage of node information.
 
 Here it is in action:
-![Stats](https://github.com/EpitechPromo2028/B-CPE-110-LIL-1-1-settingup-thomas.baruzier/blob/main/bonus/stats.png?raw=true)
+![Stats](https://github.com/ThomasBaruzier/setting_up/blob/main/bonus/stats.png?raw=true)
 
 ### Code Structure
 
